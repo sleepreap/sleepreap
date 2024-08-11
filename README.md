@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Royce Teng</h1>
-<h3 align="center">A passionate frontend developer from NTU</h3>
+<h3 align="center">A passionate AI and ML engineer from NTU</h3>
 
-- 🔭 I’m currently working on [SC2006](https://github.com/sleepreap/SC2006-app.git)
+- 🌱 I’m currently learning **ML, CV and NLP**
 
-- 🌱 I’m currently learning **Three.js, React and more about software development**
-
-- 💬 Ask me about **React**
+- 💬 Ask me about **Deep Learning**
 
 - 📫 How to reach me **royce.teng@gmail.com**
 
